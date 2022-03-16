@@ -19,20 +19,21 @@ article {
 }
 
 article header {
-  line-height: 0.3;
+  line-height: .3;
   margin-top: 2.2rem;
 }
 
 article h1 {
   font-size: 1.5rem;
   font-family: "Crimson Text", serif;
+  font-weight: bold;
 }
 
 article header p {
   border-bottom: 2px solid #999;
   padding-bottom: 30px;
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 1em;
   color: #222;
   font-family: "Crimson Text", serif;
 }
@@ -47,7 +48,7 @@ article ol {
   padding-left: 16px;
 }
 
-blockquote p {
+blockquote {
   font-size: 1.125rem;
   color: #555;
   font-family: "Crimson Text", serif;
@@ -56,5 +57,5 @@ blockquote p {
 .quote {
   padding-left: 1rem;
   padding-right: 1rem;
-  margin: -0.7rem;
+  margin: -.7rem;
 }

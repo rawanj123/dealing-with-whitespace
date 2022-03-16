@@ -11,6 +11,7 @@ body {
   margin: 1.5rem 13rem;
   max-width: 19rem;
   min-width: 19rem;
+  padding-left: 1rem;
 }
 
 article {
